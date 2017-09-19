@@ -1,0 +1,85 @@
+
+# GameLibZero SYNTAX HIGHLIGHT
+# ADD TO FILE: processingFolder/modes/java/keywords.txt
+# GameLibZero SYNTAX HIGHLIGHT
+
+world	KEYWORD4	settings
+blitter	KEYWORD4	settings
+fading	KEYWORD4	settings
+sprites	KEYWORD4	settings
+mouse	KEYWORD4	settings
+live	KEYWORD4	settings
+visible	KEYWORD4	settings
+graph	KEYWORD4	settings
+priority	KEYWORD4	settings
+x	KEYWORD4	settings
+y	KEYWORD4	settings
+z	KEYWORD4	settings
+angle	KEYWORD4	settings
+sizeX	KEYWORD4	settings
+sizeY	KEYWORD4	settings
+alpha	KEYWORD4	settings
+id	KEYWORD4	settings
+x0	KEYWORD4	settings
+y0	KEYWORD4	settings
+type	KEYWORD4	settings
+oldX	KEYWORD4	settings
+oldY	KEYWORD4	settings
+
+TYPE_BOX	LITERAL2	size_
+TYPE_CIRCLE	LITERAL2	size_
+WOOD	LITERAL2	size_
+RUBBER	LITERAL2	size_
+METAL	LITERAL2	size_
+STONE	LITERAL2	size_
+PLASTIC	LITERAL2	size_
+HUMAN	LITERAL2	size_
+fps	LITERAL2	size_
+
+region	FUNCTION4	setting
+frame	FUNCTION4	settings
+createBody	FUNCTION4	settings
+setMaterial	FUNCTION4	settings
+setDamping	FUNCTION4	settings
+setDrag	FUNCTION4	settings
+addImpulse	FUNCTION4	settings
+settings	FUNCTION4	settings
+addVx	FUNCTION4	settings
+addVy	FUNCTION4	settings
+setPosition	FUNCTION4	settings
+setVx	FUNCTION4	settings
+setVy	FUNCTION4	settings
+addPosition	FUNCTION4	settings
+getVx	FUNCTION4	settings
+getVy	FUNCTION4	settings
+setGroup	FUNCTION4	settings
+setAngle	FUNCTION4	settings
+setStatic	FUNCTION4	settings
+setSensor	FUNCTION4	settings
+setGraph	FUNCTION4	settings
+advance	FUNCTION4	settings
+getAngle	FUNCTION4	settings
+getDist	FUNCTION4	settings
+collision	FUNCTION4	settings
+collisionType	FUNCTION4	settings
+setScene	FUNCTION4	settings
+isContact	FUNCTION4	settings
+screenDrawText	FUNCTION4	settings
+screenDrawGraphic	FUNCTION4	settings
+writeInMap	FUNCTION4	settings
+loadImages	FUNCTION4	settings
+setMode	FUNCTION4	settings
+fadeOff	FUNCTION4	settings
+fadeOn	FUNCTION4	settings
+collisionMouse	FUNCTION4	settings
+letMeAlone	FUNCTION4	settings
+signal	FUNCTION4	settings
+exists	FUNCTION4	settings
+loadSounds	FUNCTION4	settings
+soundPlay	FUNCTION4	settings
+scroll	FUNCTION4	settings
+newGraph	FUNCTION4	settings
+mapSetColor	FUNCTION4	settings
+putGraphic	FUNCTION4	settings
+clearGraphic	FUNCTION4	settings
+scene	FUNCTION4	settings
