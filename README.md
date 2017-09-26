@@ -9,3 +9,5 @@ Based on Div Games Studio Concept.
 
 2.2.6: BUG SOLVED from sprite shape coords in maximized window.
 
+2.2.7 ADD: mouse.onRegion() for check is mouse on screen region & mouse.getBody() yo get fist body collision directly from mouse instance.
+
