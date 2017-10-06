@@ -11,3 +11,4 @@ Based on Div Games Studio Concept.
 
 2.2.7 ADD: mouse.onRegion() for check is mouse on screen region & mouse.getBody() yo get fist body collision directly from mouse instance.
 
+2.3.0 ADD: loadScene() for load scenes with collide zones defined. ENJOY!
